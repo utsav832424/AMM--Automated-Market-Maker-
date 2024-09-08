@@ -1,4 +1,4 @@
-# Automated Market Maker (AMM) in Solidity
+# Automated Market Maker (AMM)
 
 This repository contains a smart contract implementation of an Automated Market Maker (AMM) in Solidity. The AMM allows the creation of liquidity pools, adding/removing liquidity, swapping tokens, and fetching quotes for token swaps.
 
